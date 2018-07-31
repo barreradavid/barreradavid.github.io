@@ -1,0 +1,53 @@
+html{
+	min-height: 100%;
+	overflow: auto;
+}
+
+
+body{font-family: 'Dancing Script', cursive;
+	background: linear-gradient(rgb(95,144,255), rgb(144,90,200)); }
+
+#Title{
+	font-size: 3.5em;	letter-spacing: 10px;
+	text-align: center;
+	text-shadow:  2px 2px gray;
+	border-top-right-radius: 20px;
+	border-top-left-radius: 20px; 
+	background-color: snow
+}
+
+#detail{
+	 line-height: 1.6;
+	 padding: 30px }	
+
+
+.top_nav_Item:hover{
+	color: white;
+	font-size: 2.5em;
+	margin: 15px;
+	text-decoration: none;
+	background: none;
+	transition: width 2s linear 1s;}
+
+.top_nav_Item{
+	color: purple 
+	font-size: 2.5em;
+	margin: 15px;
+	text-decoration: none;
+	text-align: right;
+	}
+
+#current_page{
+	border-bottom: 3px solid purple
+}
+
+#top_nav{
+	text-align: right;
+}
+
+.body{
+   	border-top-right-radius: 20px;
+	border-top-left-radius: 20px; 
+	border-bottom-right-radius: 20px
+	border-bottom-left-radius: 20px;
+  	background-color:snow;  }
