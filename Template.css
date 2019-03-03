@@ -18,7 +18,9 @@ body{font-family: 'Dancing Script', cursive;
 
 #detail{
 	 line-height: 1.6;
-	 padding: 30px }	
+	 padding: 30px;
+	 font-size: 1.4em 
+	}	
 
 
 .top_nav_Item:{
