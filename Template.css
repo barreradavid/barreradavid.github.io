@@ -21,7 +21,7 @@ body{font-family: 'Dancing Script', cursive;
 	 padding: 30px }	
 
 
-.top_nav_Item:hover{
+.top_nav_Item:{
 	color: white;
 	font-size: 2.5em;
 	margin: 15px;
